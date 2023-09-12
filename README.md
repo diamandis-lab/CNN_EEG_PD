@@ -4,8 +4,7 @@
 
 This repo contains the necessary data and code to replicate the findings from the manuscript: Generalizable electroencephalographic classification of Parkinson’s Disease using deep learning
 
-Preprocessed UNM data can be accessed via google drive here: https://drive.google.com/drive/folders/1kKqpM21GQVYue-owZ7dQuwDnCw8uQktd?usp=sharing
-Preprocessed UIowa data can be accesed via google drive here: https://drive.google.com/drive/folders/19QJgQCEP-09rx_O4ItiBybzLjfKaPNxF?usp=sharing
+preprocessed data can be accessed via zenodo: https://zenodo.org/record/8338680 
 
 Add both folders to your drive, then you can run any of the five notebooks in this repo:
 
